@@ -1,16 +1,27 @@
-# React + Vite
+Digital Business Card - React Practice
+A modern, responsive digital business card built as a practice project to master React components and CSS layout.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Requirements
+Build from scratch: No templates used.
 
-Currently, two official plugins are available:
+Custom Info: Personalized with my own developer details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Component-Based Architecture: Divided into logical sections.
 
-## React Compiler
+Technologies Used
+React (Functional Components)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CSS (Flexbox/Grid for layout)
 
-## Expanding the ESLint configuration
+FontAwesome (for social icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Component Structure
+The project is organized into the following separate components:
+
+Info: Profile photo, name, title, and primary contact buttons.
+
+About: Brief professional summary.
+
+Interests: Personal interests and hobbies.
+
+Footer: Social media icons and links.
