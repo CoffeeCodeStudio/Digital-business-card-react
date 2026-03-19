@@ -12,12 +12,14 @@ export default function Info() {
 			<a href="https://coffeecodestudio.se">
 			Coffee Code Studio
 			</a>
-			<button>
-				Email
-			</button>
-			<button>
-				linkedin
-			</button>
+			
+				<button>
+					Email
+				</button>
+				<button>
+					linkedin
+				</button>
+			
 		</div>
 	)
 }
