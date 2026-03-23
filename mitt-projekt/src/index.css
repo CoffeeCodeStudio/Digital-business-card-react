@@ -2,6 +2,8 @@ body {
 	background-color: #23252C;
 	color: #D1D5DB;
 	font-family: 'Inter', sans-serif;
+	margin: 0;
+	padding: 0;
 }
 /*General settings*/
 h2, h3 {
@@ -29,15 +31,32 @@ img {
   height: 350px;
   object-fit: cover;
 }
-.btn {
-	display: flex;
-	margin:.83rem 0;
-	width: 100%;
+.email-btn {
+    margin: .83rem 0;
 }
+
 button {
-	width: 100%;
-	padding: .5rem;
-	
+    width: 100%;
+    max-width: 225px;
+    padding: .75rem 1.5rem;
+    border-radius: 6px;
+    border: 2px solid #F3BF99;
+    background: transparent;
+    color: #F3BF99;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background: #F3BF99;
+    color: #23252C;
+    transform: translateY(-2px);
+}
+
+button:active {
+    transform: translateY(0);
 }
 /*About*/
 
