@@ -9,7 +9,14 @@ body {
 h2, h3 {
 	text-align: left;
 }
+.about, .interests, .email-btn {
+	margin: .5rem;
+}
 /*card info section*/
+a {
+	text-decoration: none;
+	color: inherit;
+}
 .card_info {
 	text-align: center;
 }
@@ -30,9 +37,6 @@ img {
   width: 100%;
   height: 350px;
   object-fit: cover;
-}
-.email-btn {
-    margin: .83rem 0;
 }
 
 button {

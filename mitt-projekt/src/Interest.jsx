@@ -1,6 +1,6 @@
 export default function About() {
 	return (
-		<div>
+		<div className="interests">
 			<h2>
 				Interests
 			</h2>
