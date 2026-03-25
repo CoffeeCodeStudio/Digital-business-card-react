@@ -38,4 +38,4 @@ npm run dev
 
 ## What I Learned
 
-[ADD — e.g. "Component-based architecture in React, managing state with useState, deploying with GitHub Pages"]
+Component-based architecture in React, managing state with useState
