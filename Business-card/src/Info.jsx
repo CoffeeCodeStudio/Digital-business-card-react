@@ -14,7 +14,7 @@ export default function Info() {
 					<p>☕ Coffee Code Studio</p>
 				</a>
 			
-				<div class="email-btn">
+				<div className="email-btn">
 					<button>
 						✉️ Email
 					</button>
