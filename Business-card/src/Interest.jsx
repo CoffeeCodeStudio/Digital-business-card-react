@@ -1,4 +1,4 @@
-export default function About() {
+export default function Interests() {
 	return (
 		<div className="interests">
 			<h2>
