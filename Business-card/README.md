@@ -1,27 +1,49 @@
-Digital Business Card - React Practice
+# Digital Business Card — React
+
 A modern, responsive digital business card built as a practice project to master React components and CSS layout.
 
-Project Requirements
-Build from scratch: No templates used.
+## Live Demo
 
-Custom Info: Personalized with my own developer details.
+[View live site]([ADD YOUR GITHUB PAGES URL HERE])
 
-Component-Based Architecture: Divided into logical sections.
+## Screenshot
 
-Technologies Used
-React (Functional Components)
+![App screenshot]([ADD SCREENSHOT PATH HERE — e.g. public/screenshot.png])
 
-CSS (Flexbox/Grid for layout)
+> To add a screenshot: take a screenshot of the app, save it in the `public/` folder, then replace the placeholder above.
 
-FontAwesome (for social icons)
+## Getting Started
 
-Component Structure
-The project is organized into the following separate components:
+```bash
+npm install
+npm run dev
+```
 
-Info: Profile photo, name, title, and primary contact buttons.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-About: Brief professional summary.
+## Technologies Used
 
-Interests: Personal interests and hobbies.
+- React (Functional Components, useState)
+- CSS (Flexbox for layout)
+- Font Awesome (social icons)
+- Vite (build tool)
+- GitHub Pages (deployment)
 
-Footer: Social media icons and links.
+## Component Structure
+
+| Component | Description |
+|-----------|-------------|
+| `Info` | Profile photo, name, title, and email copy button |
+| `About` | Brief professional summary |
+| `Interests` | Personal interests |
+| `Footer` | LinkedIn and GitHub icon links |
+
+## Features
+
+- Click the **Email** button to copy email address to clipboard
+- Links to LinkedIn, GitHub, and Coffee Code Studio
+- Deployed via GitHub Pages
+
+## What I Learned
+
+[ADD — e.g. "Component-based architecture in React, managing state with useState, deploying with GitHub Pages"]

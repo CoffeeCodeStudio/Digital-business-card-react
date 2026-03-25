@@ -5,7 +5,7 @@ export default function About() {
 				About
 			</h2>
 			<p>
-				Jag är en frontend-utvecklare under utbildning med fokus på att bygga enkla, funktionella och användarvänliga webbapplikationer. Jag studerar via Scrimba och utvecklar kontinuerligt mina kunskaper inom HTML, CSS, JavaScript och React.
+				I'm a frontend developer in training, focused on building simple, functional and user-friendly web applications. I study via Scrimba and continuously develop my skills in HTML, CSS, JavaScript and React.
 			</p>
 		</div>
 	)

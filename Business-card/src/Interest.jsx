@@ -5,7 +5,7 @@ export default function Interests() {
 				Interests
 			</h2>
 			<p>
-				På fritiden är jag intresserad av teknik, webbutveckling och att lära mig nya verktyg och lösningar. Jag gillar också att förstå hur saker fungerar bakom kulisserna och att förbättra mina färdigheter steg för steg.
+				In my free time I'm interested in tech, web development and learning new tools and solutions. I also enjoy understanding how things work behind the scenes and improving my skills step by step.
 			</p>
 		</div>
 	)
