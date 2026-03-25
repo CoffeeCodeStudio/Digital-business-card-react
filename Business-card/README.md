@@ -4,13 +4,7 @@ A modern, responsive digital business card built as a practice project to master
 
 ## Live Demo
 
-[View live site]([ADD YOUR GITHUB PAGES URL HERE])
-
-## Screenshot
-
-![App screenshot]([ADD SCREENSHOT PATH HERE — e.g. public/screenshot.png])
-
-> To add a screenshot: take a screenshot of the app, save it in the `public/` folder, then replace the placeholder above.
+Open https://coffeecodestudio.github.io/Digital-business-card-react/ in your browser.
 
 ## Getting Started
 
@@ -18,8 +12,6 @@ A modern, responsive digital business card built as a practice project to master
 npm install
 npm run dev
 ```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Technologies Used
 
